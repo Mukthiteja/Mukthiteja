@@ -4,7 +4,6 @@
   A passionate <strong>Full Stack Web Developer</strong> with a strong foundation in <strong>Information Science</strong> (RVCE | CGPA: 8.53), skilled in building scalable and efficient web applications. I thrive in collaborative environments and enjoy crafting solutions that solve real-world problems through code. With a background in healthcare tech integration, I’m continuously driven to learn, adapt, and contribute meaningfully.
 </p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="50px" height="50px" />
 <br>
 
 ---
