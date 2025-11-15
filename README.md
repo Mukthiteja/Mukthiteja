@@ -44,6 +44,7 @@
 <h2>📊 GitHub Stats</h2>
 
 ![Mukthiteja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mukthiteja&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukthiteja&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukthiteja&layout=compact&theme=tokyonight&stats_format=bytes)
+
 
 
